@@ -1,4 +1,4 @@
-# python3 -i MorseCode.py
+# python3 -i v1.MorseCode.GHU.py
 
 import numpy as np
 import sounddevice as sd
